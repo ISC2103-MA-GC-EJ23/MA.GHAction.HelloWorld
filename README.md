@@ -1,4 +1,4 @@
-GitHub Action - HelloWorld
+# GitHub Actions - HelloWorld
 
 Fuente: [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
